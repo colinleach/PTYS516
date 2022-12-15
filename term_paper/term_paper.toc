@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {section}{\numberline {2}Research Background}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}MMX Mission: Objectives}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}MMX Mission: Instruments}{5}{subsection.2.2}%
+\contentsline {paragraph}{Cameras}{5}{section*.8}%
+\contentsline {paragraph}{LIDAR}{5}{section*.9}%
+\contentsline {paragraph}{IR spectrometer}{6}{section*.10}%
+\contentsline {paragraph}{Raman spectrometer}{6}{section*.11}%
+\contentsline {paragraph}{MEGANE}{6}{section*.12}%
+\contentsline {paragraph}{Dust monitor}{6}{section*.14}%
+\contentsline {paragraph}{Mass spectrometer}{7}{section*.15}%
+\contentsline {subsection}{\numberline {2.3}MMX Rover}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}MMX Mission: Sample Return}{7}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Analysis}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}What are the surfaces of each moon made of, and are they the same?}{8}{subsection.3.1}%
+\contentsline {paragraph}{From orbit}{8}{section*.18}%
+\contentsline {paragraph}{From the Phobos surface}{8}{section*.19}%
+\contentsline {paragraph}{Via sample return}{8}{section*.20}%
+\contentsline {subsection}{\numberline {3.2}What is the interior structure and geology of each moon?}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}What is the environment around Mars?}{10}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Implications for each origin model}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Asteroid capture}{10}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Giant impact}{10}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {4}Discussion}{11}{section.4}%
+\contentsline {paragraph}{Note:}{11}{section*.21}%
+\contentsline {section}{\numberline {5}Conclusions}{11}{section.5}%
+\contentsline {section}{\numberline {A}Data gathering}{12}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Early Observations}{12}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}21st Century Observations}{12}{subsection.A.2}%
+\contentsline {section}{\numberline {B}Characteristics of Phobos and Deimos}{12}{appendix.B}%
+\contentsline {subsection}{\numberline {B.1}Physical Geology}{12}{subsection.B.1}%
+\contentsline {paragraph}{Surface features:}{12}{section*.22}%
+\contentsline {paragraph}{Shape and density:}{12}{figure.caption.24}%
+\contentsline {section}{\numberline {C}Origins}{13}{appendix.C}%
+\contentsline {subsection}{\numberline {C.1}Capture of an asteroid}{13}{subsection.C.1}%
+\contentsline {subsection}{\numberline {C.2}Co-accretion with Mars}{14}{subsection.C.2}%
+\contentsline {subsection}{\numberline {C.3}Accretion disk from giant impact on Mars}{14}{subsection.C.3}%
+\contentsline {section}{\numberline {D}leftover bits}{14}{appendix.D}%

@@ -1,0 +1,473 @@
+\input{termpaper_header.tex}
+
+% Homework Specific Information
+\newcommand{\hmwkClass}{PTYS 516}
+\newcommand{\hmwkTitle}{Term Paper\\Origin of the Martian Moons and the MMX Mission}
+% Make title
+\title{\vspace{-2cm}\textmd{\textbf{\hmwkClass:\ \hmwkTitle}}\\\normalsize \vspace{0.1in}
+	\author{\textbf{Colin Leach}\,\tsup{\orcidlink{0000-0003-3608-1546}}}} \vspace{-0.3in}
+
+\hyphenpenalty=1000
+
+\counterwithout{figure}{section}
+
+\renewcommand{\arraystretch}{1.2}
+%\arrayrulecolor[HTML]{ccc}
+
+\usepackage{makecell}
+\usepackage{orcidlink}
+%\hypersetup{colorlinks=true, linkcolor=red}
+
+
+\begin{document}
+	
+\maketitle
+\vspace{-0.4in}
+
+%\tableofcontents
+
+\section{Introduction}\label{section:intro}
+
+Of the three moons around the rocky inner planets, two orbit Mars. In sharp contrast to Earth's Moon, Phobos and Deimos are small, dark, irregularly shaped and in close orbits around the planet. They were reviewed in some detail by \citet{murchie_phobos_2015}.
+
+\begin{figure}[h!]
+	\caption{HiRISE images of Phobos and Deimos, color enhanced and brightened. Stickney is the large crater on the right of Phobos.}
+	\label{fig:ph_de}
+	\includegraphics[scale=0.65]{Phobos_deimos}
+\end{figure}
+
+\begin{table}[hbt!]
+	\centering % Centre the table
+	\caption{Basic properties of the Martian moons}
+	\label{table:properties}
+	\small
+	\begin{tabular}{|l|c|c|}
+		\hline
+		 & \textbf{Phobos} & \textbf{Deimos} \\
+		\hline
+		\textbf{\textit{Body}} &  & \\
+		Size \textit{(km)} & $26 \times 23 \times 18$ & $15 \times 12 \times 10$ \\
+		Bulk density & $1.860 \pm 0.013$ & $1.49 \pm 0.19$ \\
+		Albedo & 0.071 & 0.068 \\
+		\hline
+		\textbf{\textit{Orbit}} &  & \\
+		Semimajor axis \textit{a} & 9,377 \textit{km} (2.8 $R_\Mars$) & 23,460 \textit{km} (7 $R_\Mars$) \\
+		Period & 7.66 \textit{h} & 30.3 \textit{h} \\
+		Eccentricity \textit{e} & 0.0151 & 0.0003 \\
+		Inclination \textit{i} & $1.093^\circ$ &  $0.93^\circ$ \\
+		\hline
+	\end{tabular}
+\end{table}
+
+Basic properties of the two moons are shown in Table \ref{table:properties}. Strikingly, the orbits are nearly circular and equatorial, despite rather large fluctuations in the obliquity of Mars. The orbital periods straddle the length of a Martian sol (about 24.6 h). Thus Phobos rises in the west and Deimos (very slowly) in the east. Both moons are tidally locked, and tidal forces have opposite effects on the orbit: Deimos, like Earth's Moon, is moving further away from its planet; Phobos is moving closer. It is estimated that Phobos will survive no more than about 39 Myr before either impacting Mars' surface or being ripped apart on reaching the Roche limit.
+
+The origins of this system remain controversial \citep{ramsley_origins_2021}. Many hypotheses have been published but they fall broadly into four categories, listed in Table \ref{table:hypoths}. Additionally, there is disagreement about whether the moons formed separately or by collisional fragmentation of a larger precursor moon.
+
+\begin{table}[hbt!]
+	\centering % Centre the table
+	\caption{Origin hypotheses for Phobos and Deimos}
+	\label{table:hypoths}
+	\small
+	\begin{tabular}{|l l|}
+		\hline
+		1. Capture of an asteroid & (a) Outer main belet of outer solar system body \\
+		& (b) Inner solar system body  \\
+		\hline
+		2. Formation near Mars & (a) Co-accretion with Mars \\
+		& (b) Accretion disk from giant impact on Mars \\
+		\hline
+	\end{tabular}
+\end{table}
+
+
+Work aimed at resolving the origin question remains ongoing. In particular, JAXA are planning a sample return mission due to launch in 2024.
+
+
+\section{Research Background}\label{section:background}
+
+The appearance and physical geology of Phobos and Deimos is well described in \citet{michel_asteroids_2015}, section 2, and not repeated here.  Some other work on Phobos and Deimos is summarized in the appendices: 
+\begin{itemize}
+  	\setlength{\itemsep}{3pt}
+	\setlength{\parskip}{0pt}
+	\item Observations and data gathering in Appendix \ref{appendix:obs}
+	\item Theories about their origins in Appendix \ref{appendix:origins}
+\end{itemize}
+This section concentrates mainly on plans for future missions.
+
+\subsection{MMX Mission: Objectives}
+
+Martian Moons eXploration (MMX) is a JAXA mission in collaboration with NASA, CNES, ESA and DLR. The science case is discussed in \citet{usui_importance_2020}. Mission plans as of this year are discussed in \citet{kawakatsu_preliminary_2022} and \citet{kuramoto_martian_2022}, the latter also discussing mission objectives in a scientific context. These all emphasize that mission details are still evolving and published plans should not be regarded as final.
+
+The mission has two high-level goals and a variety of objectives within these, as listed in Table \ref{table:goals}. For purposes of PTYS 516, objectives 1.1 and 1.2a are of particular relevance.
+
+\begin{table}[hbt!]
+	\centering % Centre the table
+	\caption{Science mission goals and objectives}
+	\label{table:goals}
+	\small
+	\begin{tabular}{|p{15cm}|}
+		\hline
+		\textbf{(a) Mission goals} \\
+		\textbf{1.} To reveal the origin of the Martian moons and then to make progress in our
+		understanding of planetary system formation and primordial material transport
+		around the border between the inner and the outer parts of the early solar system. \\
+		\textbf{2.} To observe processes that impact the evolution of the Mars system from the new
+		vantage point and advance our understanding of Mars’ surface environmental
+		transition. \\	
+		\hline
+		\textbf{(b) Mission objectives} \\
+		\textbf{1.1.} To determine whether the origin of Phobos is captured asteroid or giant impact. \\
+		\textbf{1.2a.} (In the case of captured asteroid origin) To understand the primordial
+		material delivery process (such as composition, migration history) to the rocky
+		planet region and constrain the initial condition of the Mars surface environment
+		evolution. \\
+		\textbf{1.2b.} (In the case of giant impact origin) To understand the moon formation via
+		giant impact and to evaluate how the initial evolution of the Mars environment was
+		affected by the moon forming event. \\
+		\textbf{1.3.} To constrain the origin of Deimos. \\
+		\textbf{2.1.} To obtain a solid picture of surface geologic evolution of the small airless body on
+		the orbit around Mars. \\
+		\textbf{2.2.} To gain new insight on Mars surface environment evolution. \\
+		\textbf{2.3.} To better understand the behavior of the Mars atmosphere-ground system and the
+		water cycle dynamics \\
+		\hline
+	\end{tabular}
+\end{table}
+
+To achieve these objectives the mission includes a number of components: 
+\begin{itemize}
+  	\setlength{\itemsep}{3pt}
+	\setlength{\parskip}{0pt}
+	\item Multiple close flybys of both Phobos and Deimos, with \textit{in situ} sensing by a suite of \\ instruments.
+	\item Deployment of a rover to the surface of Phobos.
+	\item Sampling of two points on Phobos and return of these samples to Earth.
+\end{itemize}
+
+Launch is currently planned for 2024, with about 3 years spent in the vicinity of Mars and arrival back at Earth in 2029. More detail of the period around Mars is given in table \ref{table:phases}
+
+\begin{table}[hbt!]
+	\centering % Centre the table
+	\caption{Observation operation phases}
+	\label{table:phases}
+	\small
+	\begin{tabular}{|c|l|l|}
+		\hline
+		\textbf{Phase} & \textbf{Time Period} & \textbf{Contents} \\
+		\hline
+		\textbf{0}	& Arrival – Oct. 2025 & Checkout \\
+		\textbf{1} & Oct. 2025–Feb. 2026 & Initial observation \\
+		\textbf{2} & Feb. 2026–Dec. 2026 & Intensive observation for Landing Site Selection (LSS) \\
+		\textbf{3} & Dec. 2026–Aug. 2027 & Two landings on Phobos and Rover delivery to Phobos \\
+		\textbf{4} & Aug. 2027–Apr. 2028 & Global observation other than LSS purpose and Mars observation \\
+		\textbf{5} & Apr. 2028–Aug. 2028 & Deimos and Mars observation \\
+		\hline
+	\end{tabular}
+\end{table}
+
+
+
+\subsection{MMX Mission: Instruments}\label{section:instruments}
+
+\begin{table}[hbt!]
+	\caption{MMX mission instruments. The upper block are on the Exploration Module, the lower block on the Return Module.}
+	\label{table:instruments}
+%	\small
+	\footnotesize
+	\centering % Centre the table
+	\renewcommand{\cellalign}{tl}
+	\renewcommand\cellgape{\Gape[5pt]}
+	
+	\begin{tabular}{|l|l|l|}
+		\hline
+		\textbf{Instrument} & \textbf{Function} & \textbf{Major Objectives} \\
+		\hline
+		TENGOO & Telescopic camera & Image geological features \\
+		OROCHI & \makecell{Wide-angle multiband \\camera} & \makecell{Image geological features\\ Study hydrated minerals and space weathering \\  Observe the Mars atmosphere } \\
+		LIDAR & Laser altimeter & Obtain topographic features and construct a shape model \\
+		MIRS & \makecell{Near-infrared\\ spectrometer} & \makecell{Study hydrated minerals, water molecules and organic materials \\ Observe the Mars atmosphere} \\
+		MEGANE & \makecell{Gamma-ray and neutron \\spectrometer} & Measure the major elemental composition \\
+		MSA & Ion mass spectrometer &  \makecell{Detect degassing from possible ice inside Martian moons \\ Study the ion environment around Martian moons} \\
+		C-SMP & Coring sampler & Collect Martian moon's subsurface material\\
+		P-SMP & Pneumatic sampler & Collect Martian moon's surface material \\
+		ROVER & Moving vehicle & \makecell{Investigate the surface environment of the Martian moon \\ \hspace{3mm} for safe landing operation \\ Obtain scientific data complementary to remote sensing \\ \hspace{3mm} data from orbit} \\
+		\hline
+		CMDM & Dust counter &  Study the dust environment around Martian moons \\
+		SRC & Sample return capsule &  Re-enter the capsule with Martian moon's material \\
+		IREM & \makecell{Radiation environment \\monitor} & \makecell{ Measure the radiation environment of the interplanetary and \\ \hspace{3mm} Mars system} \\
+		SHV & Outreach camera & Take high-definition images and movies \\
+		\hline
+	\end{tabular}
+\end{table}
+
+These are listed in Table \ref{table:instruments}, with major objectives (adapted from \citet{kawakatsu_preliminary_2022}{, Table 6}).
+
+\paragraph{Cameras} There are two main cameras. TENGOO is essentially a telescope for studying the surface of each moon in visible wavelength, with FOV $1.1^\circ \times 0.82^\circ$and spatial resolution around 40 cm from 20 km altitude.  OROCHI is wide angle with FOV $66^\circ \times 53^\circ$ and spatial resolution around 20 m from 20 km. It has 7 narrow-band filters from 390 -- 950 nm and a wide-band filter covering 400 -- 900 nm. Details were given in a conference presentation \citep{kameda_telescopic_2019} and a more recent full paper \citep{kameda_design_2021}.
+ 
+\paragraph{LIDAR} This is a laser altimeter with ranging resolution <0.1 m for distance 100 m -- 100 km. It is intended to improve our shape models, particularly for Deimos.
+
+\paragraph{IR spectrometer} MIRS is a near-IR spectrometer covering $0.9-3.6\ \mu$m with FOV $\pm1.65^\circ$, for chemical characterization of both the surface of the moons and the atmosphere of Mars. So far the only publication from this team is a (relatively detailed) conference abstract \citep{barucci_phobos_2022}.
+
+\paragraph{Raman spectrometer} RAX is a rover-mounted instrument to study the mineralogy of Phobos from close proximity. As such, it complements the MIRS data from orbit. Details are given in a full paper \citep{cho_situ_2021}. This is a Japan-Spain-Germany collaboration.
+
+\paragraph{Ion mass spectrometer} MSA is intended mainly to (a) detect degassing from any ice inside the moons and (b) study the ion environment around the moons. Full details are in \citet{yokota_situ_2021}.
+
+\paragraph{MEGANE} The Mars-moon Exploration with GAmma rays and NEutrons is a pair of instruments. GRS is the gamma-ray spectrometer (0.4--8 MeV) and NS the neutron spectrometer (total 0.01--7 MeV across three ranges). Details are available in a full paper \citep{lawrence_measuring_2019}, including mission objectives reproduced in Table \ref{table:megane}. This is a USA contribution, involving NASA, JHU APL and Lawrence Livermore.
+
+\begin{table}[hbt!]
+	\caption{MEGANE science goals and objectives}
+	\label{table:megane}
+%	\small
+	\footnotesize
+	\centering % Centre the table
+	\renewcommand{\cellalign}{tl}
+	\renewcommand\cellgape{\Gape[5pt]}
+	
+	\begin{tabular}{|l|l|l|}
+		\hline
+		\textbf{\makecell{ MMX Objectives = \\MEGANE Science Goals }} & 
+		\textbf{MEGANE Science Objectives} & 
+		\textbf{MEGANE Measurements} \\
+		\hline
+		
+		\makecell{1. Determine whether Phobos \\is a captured asteroid or the \\result of a giant impact} &
+		\makecell{1. Determine whether Phobos has a \\chondritic or achondritic (Mars-like) \\composition \\
+			2. Determine if Phobos' surface \\materials are depleted in volatile \\elements} & 
+		\makecell{Characterize the bulk concentrations of \\major, minor, and trace radioactive \\elements in Phobos' regolith \\
+		Measure the K/Th ratio of Phobos' \\near-surface material\\
+		Measure the H content of Phobos' regolith} \\ 
+		 
+	
+		\makecell{2. Study surface processes on \\airless bodies in Mars orbit} & 
+		\makecell{3. Characterize variations in the \\elemental composition of Phobos' \\surface} & 
+		\makecell{Make spatially resolved measurements of \\the Si, K, Fe, and Th content of Phobos' \\regolith \\
+		Make spatially resolved measurements of \\H, $\Sigma$a, and <A> on Phobos' surface} \\
+		
+		 & \makecell{4. Characterize horizontal (surface) \\and vertical (subsurface) variations in \\the H content of Phobos' near-surface \\(depth <30 cm) materials} & 
+		\makecell{Measure the H content and H layering in \\the top 30 cm of the regolith} \\
+		
+		\makecell{3. Support the MMX Phobos \\sample-return objective} & 
+		\makecell{5. Assist with sample site selection \\
+		6. Document compositional context \\of returned samples} &
+		\makecell{Provide rapid, spatially resolved \\assessment of the concentrations of H, \\Si, K, Fe, and Th, \and the bulk composition \\parameters $\Sigma$a and <A> on Phobos' \\surface} \\
+		\hline
+\end{tabular}
+\end{table}
+
+
+\paragraph{Dust monitor} The Circum-Martian Dust Monitor (CMDM) is an impact dust detector designed to characterize dust particles with relative velocities 0.5 to >70 km/s over a $\sim$1 m\tsup{2} collecting area. A full paper appeared relatively early in the project \citep{kobayashi_situ_2018}. The main objective is to determine whether Martian dust belts (ring or torus) actually exist as first proposed by \citet{soter_dust_1971}, and if so characterize them. This also feeds into regolith studies, as Mars, Phobos and Deimos are believed to all exchange surface material after meteorite impacts.
+
+\paragraph{IREM} This Radiation Environment Monitor with FOV $<66^\circ$ will measure spectra for proton energies 14--300 MeV and counts above 300 MeV. The objectives are partly science, partly assessment of habitability for future crewed missions. Details appear to be unpublished at present.
+
+\subsection{MMX Rover} 
+
+This is a solar-powered 4-wheel rover which will be dropped to the surface of Phobos under free-fall, to avoid contamination of the regolith by rocket exhaust. The provisional mission plan is described in \citet{ulamec_rover_2019} and \citet{vayugundla_mmx_2021}\footnote{Conference abstract. Access to the full paper needs an IEEE login}.  Scientific objectives are summarized in Table \ref{table:rover}. This is primarily a France-Germany contribution.
+
+\begin{table}[hbt!]
+	\centering 
+	\renewcommand\cellgape{\Gape[5pt]}
+	\caption{Rover mission plans}
+	\label{table:rover}
+	\small
+	\begin{tabular}{|p{11.5cm}|p{3.2cm}|}
+		\hline
+		\textbf{Goal} & \textbf{Main Instrument} \\
+		\hline
+		(a) Regolith science (e.g. dynamics, mechanical properties like surface strength, cohesion, adhesion; geometrical properties like grain size distribution, porosity) & WheelCAMs \\
+		(b) Close-up and high resolution imaging of the surface terrain & WheelCAMs \\
+		(c) Measurements of the mineralogical composition of the surface material (by Raman spectroscopy) & RAX \\
+		(d) Determination of the thermal properties of the surface material (surface temperature, thermal capacity, thermal conductivity) & miniRAD \\
+		\hline
+	\end{tabular}
+\end{table}
+
+Instrument selection was inevitably constrained by weight and volume limits. Currently the plans include a forward-looking stereo camera pair; two wheel-to-surface cameras with a remarkable spatial resolution down to 35 $\mu$m; RAX for Raman, as described above; and miniRAD, to study surface thermal effects. A gravimeter and a ground-penetrating radar were designed, but had to be dropped from the mission. 
+
+\subsection{MMX Mission: Sample Return}
+
+The science case for a sample return mission was first laid out in detail by \citet{murchie_value_2014}, well before MMX was announced. This is now regarded as the highest priority component of the MMX mission.
+
+Candidate sampling sites on Phobos will be identified from orbit using the two cameras (TENGOO and OROCHI) plus the IR spectrometer (MIRS). These will then be investigated further by the rover: chemical composition with the Raman spectrometer (RAX) and physical nature of the regolith with the WheelCAMs.
+
+Rather than a TAG protocol like OSIRIS-REX, the intention is for the main MMX spacecraft to land on Phobos, remaining for approximately 2.5 h \citep{kawakatsu_preliminary_2022}{ Section 5.1}. There are two different sampling systems in the design, partly to sample at different depths, partly for redundancy in case one fails: mechanically, or because the regolith proves unsuitable for that technique. Various attempts have been made to model the regolith (e.g. \citet{miyamoto_surface_2021}, \citet{sunday_influence_2022}), but much about particle size and flow properties remains unknown.
+
+The coring sampler (C-SMP) is intended to penetrate the regolith to take material from >2 cm depth. The pneumatic sample (P-SMP) then uses N\tsub{2} gas to fire surface material into a sample container. Each sample will be sealed and stored separately in the sample return module. Some sampler design ideas are discussed in \citet{kawakatsu_preliminary_2022} but this key component of the mission is still evolving as of early 2022.
+
+After sampling site 1, the main spacecraft will lift off and transfer to site 2 for a second landing and sampling. Following the second liftoff it will continue orbital studies for a time, particularly of Mars rather than the moons in this phase \citep{ogohara_mars_2022}. Assuming samples can then be returned successfully to Earth, the analytical protocols to be followed are discussed in \citet{fujiya_analytical_2021} and key analyses listed in \citet{usui_importance_2020}, Table 2.
+
+\section{Analysis}\label{section:abalysis}
+
+With currently available data failing to resolve the asteroid versus giant impact argument for the Martian moons, the MMX mission has a number of key questions to answer in order to cut through the impasse. This section attempts to list these and how the mission plans will address them. None of the available publications appears to present a composite of the plans in quite this way.
+
+\subsection{What are the surfaces of each moon made of, and are they the same?}
+
+\begin{table}[hbt!]
+	\caption{Expected characteristics of endogenous returned samples (based on \citet{usui_importance_2020}{, Table 1})}.
+	\label{table:samples}
+	%	\tiny
+	\footnotesize
+	\centering % Centre the table
+	\renewcommand{\cellalign}{tl}
+	\renewcommand\cellgape{\Gape[5pt]}
+	
+	\begin{tabular}{|l|l|l|l|l|}
+		\hline
+		& \textbf{inner capture} & \textbf{outer capture} & \textbf{Co-accretion} & \textbf{Giant impact} \\
+		\hline
+		
+		Petrology & 
+		\makecell{Analogous to \\carbonaceous \\chondrite, IDP, or \\cometary material} & 
+		\makecell{Analogous to \\ordinary chondrite} & 
+		? & 
+		\makecell{Glassy or recrystallized \\igneous texture} \\
+		
+		Mineralogy & 
+		\makecell{Rich in oxidized\\ and hydrous \\alteration phases \\(e.g., phyllosilicate, \\carbonates), \\amorphous silicate} & 
+		\makecell{Reduced and \\mostly anhydrous \\phases (e.g., \\pyroxene, olivine, \\metal, sulfides)} &
+		\makecell{Un-equilibrated \\mixture of \\chondritic \\minerals?} & 
+		\makecell{High-T igneous phases \\(e.g., pyroxene, olivine), \\Martian crustal (evolved \\igneous) \& mantle \\(high-P) phases} \\
+		
+		\makecell{Bulk \\chemistry} & 
+		\makecell{Chondritic, volatile \\rich (e.g., high C \\and high H)} & 
+		\makecell{Chondritic, \\volatile poor} & \
+		\makecell{Chondritic \\(sim bulk Mars?) \\with nebula-derived \\volatile?} & 
+		\makecell{Mixture of Martian \\crustal (mafic) and \\mantle-like (ultramafic) \\composition possibly \\with impactor material \\(high HSE?). Degree of \\volatile depletion varies \\due to impact regime} \\
+		
+		Isotopes & 
+		\makecell{Carbonaceous \\chondrite signature \\(e.g., $\Delta^{17}$O, $\epsilon^{54}$Cr, \\$\epsilon^{50}$Ti, $\epsilon$Mo, noble \\gases), primitive \\solar-system \\volatile signature \\(e.g., D/H, \tsup{15}N/\tsup{14}N)} & 
+		\makecell{Non-carbonaceous \\chondrite signature \\(e.g. $\Delta^{17}$O, $\epsilon^{54}$Cr, \\$\epsilon^{50}$Ti, $\epsilon$Mo, noble\\ gases), primitive \\(e.g., chondritic \\D/H, \tsup{15}N/\tsup{14}N)?} & 
+		\makecell{Bulk-Mars (?) \\signature (e.g., \\ $\Delta^{17}$O), \\planetary volatile \\(e.g., intermediate \\D/H, low \tsup{15}N/\tsup{14}N)?} &
+		\makecell{Mixture of Martian and \\impactor (carbonaceous \\or non-carbonaceous) \\composition, highly \\mass fractionated \\planetary volatile (e.g., \\low D/H, low \tsup{15}N/\tsup{14}N)?} \\
+		
+		Organics & 
+		\makecell{Primitive organic\\ matter, volatile \& \\semi-volatile \\organics, soluble \\organics?} & 
+		\makecell{Non-carbonaceous \\signature??} & 
+		? & 
+		? \\
+		\hline
+	\end{tabular}
+\end{table}
+
+This is primarily a geochemistry question. Table \ref{table:samples} is one collation of expectations for each origin hypothesis; another, similar but distinct, can be found in \citet{murchie_value_2014}{, Table 1}. The MMX mission will address this in a broad variety of ways: from orbit, from the surface of Phobos and with returned samples. Instruments were listed in Table \ref{table:instruments} and discussed in Section \ref{section:instruments}.
+
+\textbf{From orbit:} With two cameras, TENGOO will provide high-resolution structural information, OROCHI will collect multi-waveband data to help with mineralogy. MIRS will complement this with IR spectroscopy, MEGANE with gamma ray and neutron spectroscopy.
+
+\textbf{From the Phobos surface:} The Rover will characterize the regolith optically (WheelCAMs), with Raman for mineralogy (RAX) and through thermal properties (RAX).
+
+\textbf{Via sample return:} The two sampling technologies, C-SMP and P-SMP are designed to give the best chance of obtaining multiple Phobos regolith samples from different depths. Current thinking about post-return analysis is discussed in \citet{fujiya_analytical_2021} and a list of key methodes in \citet{usui_importance_2020}, Table 2, though this is likely to evolve significantly in the seven years until scheduled arrival back at Earth (and beyond).
+
+These approaches clearly complement one another in coverage and detail. Measurements from orbit provide the widest coverage, including the only measurements of Deimos. The Rover provides close-up \textit{in situ} data on the chemical and mechanical properties of the Phobos regolith, with intermediate areal coverage as it searches for the best sampling site.  Sample return gives by far the most detailed mineralogy, though with uncertainty about how representative these samples are (and the highest risk of mission failure).
+
+\subsection{What is the interior structure and geology of each moon?}
+
+We know, broadly, that both moons are low-density and Phobos appears heterogeneous. Optical photography (TENGOO, OROCHI) and Lidar will significantly improve our shape models, and hence estimates of volume and bulk density; this is particularly important for Deimos, which currently has large uncertainties. Unfortunately both the gravimeter and the ground-penetrating radar had to be removed from Rover planning because of weight/volume constraints, but \citet{matsumoto_mmx_2021} discuss planned geodesy investigations using the remaining instruments. It is hoped that the area around Stickney crater will expose interior material (perhaps the enigmatic ``blue units'', \citet{fraeman_spectral_2014}) so that instruments on both the orbiter and the Rover will be able to contrast this with more typical regolith.
+
+Explanations for the low bulk densities remains elusive: is this the result of voids (perhaps with porous rock), or of substantial water ice in the interior? This has significant implications for energy dissipation rates through tidal distortion, so the mass spectrometer MSA is designed to search for volatiles released by outgassing.
+
+\subsection{What is the environment around Mars?}
+	
+After decades of speculation, it remains unclear whether dust rings around Mars actually exist, so the dust counter CMDM is designed to provide an answer. This has implications both for in-orbit accretion models, and for regolith analysis. 
+
+Several origin models depend on details of space weathering, so MSA will study ions around the moons and IREM will study other radiation.
+
+\subsection{Implications for each origin model}
+
+A successful MMX mission will increase our knowledge of the Martian moons many-fold. Accordingly, it seems appropriate to consider what an ideal set of results might look like for each of the main proposed origins.
+
+\subsubsection{Asteroid capture}
+
+The need in this case is, firstly, to show that the geology is much more similar to an asteroid than to Mars; secondly, that there is some support for energy dissipation being efficient enough to solve the problem with circular, equatorial orbits.
+
+\textbf{Geology}: The surface regolith is likely to contain some material from Mars and from the other moon (e.g. \citet{nayak_effects_2016}). Thus, the most convincing results are likely to come from Stickney and other relatively recent craters that expose deeper material. This should be backed up by returned samples, particularly subsurface regolith from P-SMP.
+
+\textbf{Energy dissipation:} This would be greatly helped by the presence of substantial interior water ice, which MSA should be able to confirm.
+
+\subsubsection{Giant impact}
+
+Formation of the moons in orbit from Martian ejecta would require them to be fundamentally similar in composition to the planet's crust/mantle. The large difference in surface spectroscopy would then be explained by different hydration levels (orbital accretion disks having experienced strong impact heating), and by extensive space weathering. Again, analysis of subsurface material from around Stickney and from P-SMP will be critical: extensive Mars-like material would argue strongly against an asteroid origin.
+
+\section{Discussion}\label{section:discussion}
+
+Both major models of moon formation are currently problematic. Asteroid capture is based almost entirely on spectral data, though a comparison with D-type asteroids relies on an absence of peaks rather than some distinctive feature. It also needs a way to solve the dynamics problem, both in initially capturing the asteroid and in getting it to a circular, equatorial orbit. Tidal energy dissipation may be viable for Phobos, depending on internal structure, but more difficult for Deimos, in a higher orbit with weaker tidal forces. Accretion after a giant impact simplifies the orbit problem but we need to explain why both moons look spectrally dissimilar to the (well-studied) Martian surface.
+
+With no literature consensus, new data from MMX will be crucial. Until then, some form of giant impact origin appears slightly more likely, in the sense that the problems look easier to solve with further work. Space weathering is a well-studied phenomenon (e.g. \citet{gaffey_space_2010}, \citet{cipriani_model_2011}, \citet{pieters_composition_2014}, \citet{brunetto_asteroid_2015}) and this could potentially mask the surface of a Mars-derived moon to make it resemble a D-type asteroid.
+ 
+If MMX finds evidence that Phobos and Deimos really are asteroid-derived, this would be a more interesting result needing some new explanation. Previously, \citet{landis_origin_nodate} suggested dissociation of a binary asteroid. \citet{bagheri_dynamical_2021} argued for the two moons arising from disruption of a common precursor, though this was strongly criticized by \citet{hyodo_challenges_2022}. \citet{dmitrovskii_constraints_2022} described some recent modeling of tidal deformation. 
+
+With neither origin model looking compelling in a simple form, combining asteroid capture with orbital accretion may be a way forward. \citet{black_demise_2015} discussed the demise of Phobos when it reaches the Roche limit, with formation of a Martian ring system, and \citet{hesselbrock_ongoing_2017} proposed an ongoing alternation of short lived satellites and rings. In this context, results from the MMX dust monitor will be particularly interesting.
+
+
+\section{Conclusions}\label{section:conclusions}
+
+No hypothesis for the formation of Phobos and Deimos commands widespread support at present, so obtaining new data will be essential. This particularly means the MMX mission, which should start returning data from the vicinity of the moons in 2025 and return samples to Earth in 2029.
+
+It is likely that both the current models are inadequate in their simple form. Obtaining a substantial body of new data will constrain the discussion and is likely to prompt a new round of theoretical studies.
+
+\paragraph{Note:} The latest version of this paper, including \LaTeX source, can be found on Github\footnote{\href{https://github.com/colinleach/PTYS516}{https://github.com/colinleach/PTYS516}}.
+
+\newpage
+\appendix
+\appendixpage
+
+\section{Data gathering}\label{appendix:obs}
+
+\subsection{Early Observations}
+
+Both moons were first discovered in 1877. Earth-based observations continued for another century, with the orbital acceleration of Phobos published in 1945 and size estimates within 10\% of current values in 1974.
+
+Closer observation became possible with the advent of space missions. Mariner 7 (1969--70) provided the first image and Mariner 9 (1971--2) first resolved surface features. Vikings 1 (1975--82) and 2 (1975--80) provided further data on both moons, including much of what we currently know about Deimos. 
+
+Earth-based spectroscopy from the late 1980s showed an unexpectedly red and featureless spectrum, with no water peak detectable. In space, the Phobos 2 (1988--9) mission was lost before closest approach but had already given color imagery, improved density estimates and the first understanding of red unit/blue unit heterogeneity on Phobos. 
+
+
+\subsection{21st Century Observations}
+
+Imaging cameras and spectrometers on Mars Global Surveyor (1996--2006) and Mars Pathfinder (1996--7) improved our surface view of both moons. Mars Express (2003--present), in multiple close flybys of Phobos, provided almost global coverage at high resolution, and broad-range spectroscopy. Additionally, via 3-D mapping it was able to greatly refine density estimates for Phobos. Mars Reconnaissance Orbiter (2005--present), with its HiRISE camera and CRISM spectrometer, complemented the Phobos imaging and spectroscopy while also giving improved data on Deimos. However, coverage of Deimos remains incomplete and it lacks the precise shape measurements obtained for Phobos.
+
+%\section{Characteristics of Phobos and Deimos}\label{appendix:char}
+%
+%\subsection{Physical Geology}
+%
+%\paragraph{Surface features:} Phobos 
+%
+%\paragraph{Shape and density:} 
+%
+%\begin{figure}[hbt!]
+%	\caption{Phobos (left) and Deimos (right) image mosaics, projected onto shape models}
+%	\label{fig:phobos}
+%	\includegraphics[scale=0.6]{phobos}\hspace{5mm} \includegraphics[scale=0.6]{deimos}
+%\end{figure}
+
+
+
+\section{Origins}\label{appendix:origins}
+
+The many papers in this area fall into four main categories, listed in table \ref{table:hypoths}. However, there are a number of nuances and ways of combining these. Some are listed in the Discussion section.
+
+\subsection{Capture of an asteroid}
+
+The distinction between inner or outer solar system objects is important for future analysis. However, in this section they will be considered together as they share essentially the same supporting data and the same criticism from dynamicists.
+
+The asteroid capture hypothesis is mostly based on spectral data of Phobos and (to a lesser extent) Deimos. The idea  goes back at least to \citet{hunten_capture_1979}. \citet{murchie_mars_1999} argued that Phobos most closely resembles a D-type asteroid. It was shown that the Tagish Lake meteorite also resembles a D-type asteroid \citep{hiroi_tagish_2001, hiroi_tagish_2003}, providing material for more detailed laboratory study. \citet{rivkin_near-infrared_2002} concluded from near-IR spectrometry that Deimos and much of Phobos appear D-type, though the area around Stickney crater is closer to T-type. \citet{pajola_spectrophotometric_2012} analyzed new spectral data from the \textit{Rosetta} mission, arguing for Phobos as a D-type asteroid captured early in  Solar System history. \citet{pajola_phobos_2013} re-analyzed all available spectral data, finding that Phobos looks similar to Tagish Lake samples and most likely D-type.
+
+%not martian crustal \citet{fraeman_spectral_2014}
+
+\subsection{Co-accretion with Mars}
+
+The idea of Phobos and Deimos accreting from a primordial disk was proposed several decades ago, as summarized in \citet{burns_contradictory_1992}. However, subsequent spectral studies have caused this model to fall out of favor.
+
+\subsection{Accretion disk from giant impact on Mars}
+
+This origin hypothesis dates back at least to 1966, when little observational data was available. More modern analyses started to appear around 2011, including \citet{craddock_are_2011} and  \citet{rosenblatt_origin_2011}. Both reviews consider a full range of origin hypotheses but lean towards acctetion from impact debris as an explanation for the circular, equatorial orbits and low bulk densities of the moons.  \citet{rosenblatt_formation_2012} stated this less equivocally the following year. \citet{citron_formation_2015} used a Smoothed Particle Hydrodynamics (SPH) simulation to support a similar model, as did \citet{rosenblatt_accretion_2016}. The Rosenblatt group later published a multi-part series of analyses of the impact origin \citep{hyodo_impact_2017, hyodo_impact_2017-1, hyodo_impact_2018}. \citet{canup_origin_2018} used both N-body and SPH simulations which concluded that moon formation would need an oblique impact on Mars by a Vesta-sized object.
+
+
+
+\newpage
+% =====================================
+% Bibliography stuff
+
+\bibliography{moonrefs}{}
+\bibliographystyle{elsarticle-harv}
+	
+	
+\end{document}
+

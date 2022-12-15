@@ -1,0 +1,22 @@
+*.log
+*.aux
+*.out
+*.gz
+qt_temp.*
+.ipynb_checkpoints/
+test/
+400A/junk.afdesign
+
+407/.idea/
+
+516/slides/
+
+516/hwrk/~$Assignment_3_Workbook_Colin_Leach.xlsx
+
+516/hwrk/~$YS416-516_F22_Assignment_03.docx
+
+516/hwrk/Exported Items.bib
+
+516/lecture/~$Martian Moons.pptx
+
+516/term_paper/Exported Items.bib

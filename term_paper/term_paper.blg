@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: term_paper.aux
+The style file: elsarticle-harv.bst
+Database file #1: moonrefs.bib
+Repeated entry---line 288 of file moonrefs.bib
+ : @book{michel_asteroids_2015
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1189 of file moonrefs.bib
+ : @inproceedings{vayugundla_mmx_2021
+ :                                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1299 of file moonrefs.bib
+ : @article{fraeman_spectral_2014
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1316 of file moonrefs.bib
+ : @book{burns_contradictory_1992
+ :                               ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty journal in barucci_phobos_2022
+Warning--empty pages in brunetto_asteroid_2015
+Warning--empty journal in hiroi_tagish_2003
+Warning--empty journal in kameda_telescopic_2019
+Warning--empty journal in landis_origin_nodate
+Warning--empty journal in soter_dust_1971
+You've used 51 entries,
+            2990 wiz_defined-function locations,
+            999 strings with 25507 characters,
+and the built_in function-call counts, 55468 in all, are:
+= -- 3598
+> -- 4054
+< -- 16
++ -- 1562
+- -- 1482
+* -- 7521
+:= -- 8209
+add.period$ -- 189
+call.type$ -- 51
+change.case$ -- 767
+chr.to.int$ -- 50
+cite$ -- 57
+duplicate$ -- 3333
+empty$ -- 2877
+format.name$ -- 1629
+if$ -- 9758
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 863
+newline$ -- 306
+num.names$ -- 204
+pop$ -- 1116
+preamble$ -- 1
+purify$ -- 698
+quote$ -- 0
+skip$ -- 767
+stack$ -- 0
+substring$ -- 1451
+swap$ -- 3360
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 453
+warning$ -- 6
+while$ -- 224
+width$ -- 0
+write$ -- 860
+(There were 4 error messages)

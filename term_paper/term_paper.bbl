@@ -1,0 +1,785 @@
+\begin{thebibliography}{51}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Bagheri et~al.(2021)Bagheri, Khan, Efroimsky, Kruglyakov and
+  Giardini}]{bagheri_dynamical_2021}
+\bibinfo{author}{Bagheri, A.}, \bibinfo{author}{Khan, A.},
+  \bibinfo{author}{Efroimsky, M.}, \bibinfo{author}{Kruglyakov, M.},
+  \bibinfo{author}{Giardini, D.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Dynamical evidence for {Phobos} and {Deimos} as
+  remnants of a disrupted common progenitor}.
+\newblock \bibinfo{journal}{Nature Astronomy} \bibinfo{volume}{5},
+  \bibinfo{pages}{539--543}.
+\newblock \URLprefix \url{https://www.nature.com/articles/s41550-021-01306-2},
+  \DOIprefix\doi{10.1038/s41550-021-01306-2}. \bibinfo{note}{number: 6
+  Publisher: Nature Publishing Group}.
+%Type = Article
+\bibitem[{Barucci et~al.(2022)Barucci, Reess, Bernardi, Fornasier,
+  Doressoundiram, Sawyer, Le~Du, Iwata, Nakagawa and
+  Nakamura}]{barucci_phobos_2022}
+\bibinfo{author}{Barucci, M.A.}, \bibinfo{author}{Reess, J.M.},
+  \bibinfo{author}{Bernardi, P.}, \bibinfo{author}{Fornasier, S.},
+  \bibinfo{author}{Doressoundiram, A.}, \bibinfo{author}{Sawyer, E.},
+  \bibinfo{author}{Le~Du, M.}, \bibinfo{author}{Iwata, T.},
+  \bibinfo{author}{Nakagawa, H.}, \bibinfo{author}{Nakamura, T.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Phobos and {Deimos} surface characterization by
+  {MIRS} ({MMX} {InfraRed} {Spectrometer})} \bibinfo{volume}{44},
+  \bibinfo{pages}{159}.
+\newblock \URLprefix
+  \url{https://ui.adsabs.harvard.edu/abs/2022cosp...44..159B}.
+  \bibinfo{note}{conference Name: 44th COSPAR Scientific Assembly. Held 16-24
+  July ADS Bibcode: 2022cosp...44..159B}.
+%Type = Article
+\bibitem[{Black and Mittal(2015)}]{black_demise_2015}
+\bibinfo{author}{Black, B.A.}, \bibinfo{author}{Mittal, T.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{The demise of {Phobos} and development of a {Martian}
+  ring system}.
+\newblock \bibinfo{journal}{Nature Geoscience} \bibinfo{volume}{8},
+  \bibinfo{pages}{913--917}.
+\newblock \URLprefix \url{https://www.nature.com/articles/ngeo2583},
+  \DOIprefix\doi{10.1038/ngeo2583}. \bibinfo{note}{number: 12 Publisher: Nature
+  Publishing Group}.
+%Type = Incollection
+\bibitem[{Brunetto et~al.(2015)Brunetto, Loeffler, Nesvorný, Sasaki and
+  Strazzulla}]{brunetto_asteroid_2015}
+\bibinfo{author}{Brunetto, R.}, \bibinfo{author}{Loeffler, M.},
+  \bibinfo{author}{Nesvorný, D.}, \bibinfo{author}{Sasaki, S.},
+  \bibinfo{author}{Strazzulla, G.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Asteroid {Surface} {Alteration} by {Space}
+  {Weathering} {Processes}}, in: \bibinfo{booktitle}{Asteroids {IV}}.
+\newblock \DOIprefix\doi{10.2458/azu_uapress_9780816532131-ch031}.
+%Type = Book
+\bibitem[{Burns(1992)}]{burns_contradictory_1992}
+\bibinfo{author}{Burns, J.A.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{Contradictory clues as to the origin of the {Martian}
+  moons.}
+\newblock \URLprefix
+  \url{https://ui.adsabs.harvard.edu/abs/1992mars.book.1283B}.
+  \bibinfo{note}{pages: 1283-1301 Publication Title: Mars ADS Bibcode:
+  1992mars.book.1283B}.
+%Type = Article
+\bibitem[{Canup and Salmon(2018)}]{canup_origin_2018}
+\bibinfo{author}{Canup, R.}, \bibinfo{author}{Salmon, J.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Origin of {Phobos} and {Deimos} by the impact of a
+  {Vesta}-to-{Ceres} sized body with {Mars}}.
+\newblock \bibinfo{journal}{Science Advances} \bibinfo{volume}{4},
+  \bibinfo{pages}{eaar6887}.
+\newblock \URLprefix \url{https://www.science.org/doi/10.1126/sciadv.aar6887},
+  \DOIprefix\doi{10.1126/sciadv.aar6887}. \bibinfo{note}{publisher: American
+  Association for the Advancement of Science}.
+%Type = Article
+\bibitem[{Cho et~al.(2021)Cho, Böttger, Rull, Hübers, Belenguer, Börner,
+  Buder, Bunduki, Dietz, Hagelschuer, Kameda, Kopp, Lieder, Lopez-Reyes,
+  Moral~Inza, Mori, Ogura, Paproth, Perez~Canora, Pertenais, Peter,
+  Prieto-Ballesteros, Rockstein, Rodd-Routley, Rodriguez~Perez, Ryan,
+  Santamaria, Säuberlich, Schrandt, Schröder, Stangarone, Ulamec, Usui,
+  Weber, Westerdorff and Yumoto}]{cho_situ_2021}
+\bibinfo{author}{Cho, Y.}, \bibinfo{author}{Böttger, U.},
+  \bibinfo{author}{Rull, F.}, \bibinfo{author}{Hübers, H.W.},
+  \bibinfo{author}{Belenguer, T.}, \bibinfo{author}{Börner, A.},
+  \bibinfo{author}{Buder, M.}, \bibinfo{author}{Bunduki, Y.},
+  \bibinfo{author}{Dietz, E.}, \bibinfo{author}{Hagelschuer, T.},
+  \bibinfo{author}{Kameda, S.}, \bibinfo{author}{Kopp, E.},
+  \bibinfo{author}{Lieder, M.}, \bibinfo{author}{Lopez-Reyes, G.},
+  \bibinfo{author}{Moral~Inza, A.G.}, \bibinfo{author}{Mori, S.},
+  \bibinfo{author}{Ogura, J.A.}, \bibinfo{author}{Paproth, C.},
+  \bibinfo{author}{Perez~Canora, C.}, \bibinfo{author}{Pertenais, M.},
+  \bibinfo{author}{Peter, G.}, \bibinfo{author}{Prieto-Ballesteros, O.},
+  \bibinfo{author}{Rockstein, S.}, \bibinfo{author}{Rodd-Routley, S.},
+  \bibinfo{author}{Rodriguez~Perez, P.}, \bibinfo{author}{Ryan, C.},
+  \bibinfo{author}{Santamaria, P.}, \bibinfo{author}{Säuberlich, T.},
+  \bibinfo{author}{Schrandt, F.}, \bibinfo{author}{Schröder, S.},
+  \bibinfo{author}{Stangarone, C.}, \bibinfo{author}{Ulamec, S.},
+  \bibinfo{author}{Usui, T.}, \bibinfo{author}{Weber, I.},
+  \bibinfo{author}{Westerdorff, K.}, \bibinfo{author}{Yumoto, K.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{In situ science on {Phobos} with the {Raman}
+  spectrometer for {MMX} ({RAX}): preliminary design and feasibility of {Raman}
+  measurements}.
+\newblock \bibinfo{journal}{Earth, Planets and Space} \bibinfo{volume}{73},
+  \bibinfo{pages}{232}.
+\newblock \URLprefix \url{https://doi.org/10.1186/s40623-021-01496-z},
+  \DOIprefix\doi{10.1186/s40623-021-01496-z}.
+%Type = Article
+\bibitem[{Cipriani et~al.(2011)Cipriani, Witasse, Leblanc, Modolo and
+  Johnson}]{cipriani_model_2011}
+\bibinfo{author}{Cipriani, F.}, \bibinfo{author}{Witasse, O.},
+  \bibinfo{author}{Leblanc, F.}, \bibinfo{author}{Modolo, R.},
+  \bibinfo{author}{Johnson, R.E.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{A model of interaction of {Phobos}’ surface with
+  the martian environment}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{212},
+  \bibinfo{pages}{643--648}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103511000479},
+  \DOIprefix\doi{10.1016/j.icarus.2011.01.036}.
+%Type = Article
+\bibitem[{Citron et~al.(2015)Citron, Genda and Ida}]{citron_formation_2015}
+\bibinfo{author}{Citron, R.I.}, \bibinfo{author}{Genda, H.},
+  \bibinfo{author}{Ida, S.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Formation of {Phobos} and {Deimos} via a giant
+  impact}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{252},
+  \bibinfo{pages}{334--338}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103515000639},
+  \DOIprefix\doi{10.1016/j.icarus.2015.02.011}.
+%Type = Article
+\bibitem[{Craddock(2011)}]{craddock_are_2011}
+\bibinfo{author}{Craddock, R.A.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Are {Phobos} and {Deimos} the result of a giant
+  impact?}
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{211},
+  \bibinfo{pages}{1150--1161}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103510004100},
+  \DOIprefix\doi{10.1016/j.icarus.2010.10.023}.
+%Type = Article
+\bibitem[{Dmitrovskii et~al.(2022)Dmitrovskii, Khan, Boehm, Bagheri and van
+  Driel}]{dmitrovskii_constraints_2022}
+\bibinfo{author}{Dmitrovskii, A.A.}, \bibinfo{author}{Khan, A.},
+  \bibinfo{author}{Boehm, C.}, \bibinfo{author}{Bagheri, A.},
+  \bibinfo{author}{van Driel, M.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Constraints on the interior structure of {Phobos}
+  from tidal deformation modeling}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{372},
+  \bibinfo{pages}{114714}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103521003699},
+  \DOIprefix\doi{10.1016/j.icarus.2021.114714}.
+%Type = Article
+\bibitem[{Fraeman et~al.(2014)Fraeman, Murchie, Arvidson, Clark, Morris, Rivkin
+  and Vilas}]{fraeman_spectral_2014}
+\bibinfo{author}{Fraeman, A.A.}, \bibinfo{author}{Murchie, S.L.},
+  \bibinfo{author}{Arvidson, R.E.}, \bibinfo{author}{Clark, R.N.},
+  \bibinfo{author}{Morris, R.V.}, \bibinfo{author}{Rivkin, A.S.},
+  \bibinfo{author}{Vilas, F.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Spectral absorptions on {Phobos} and {Deimos} in the
+  visible/near infrared wavelengths and their compositional constraints}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{229},
+  \bibinfo{pages}{196--205}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103513004934},
+  \DOIprefix\doi{10.1016/j.icarus.2013.11.021}.
+%Type = Article
+\bibitem[{Fujiya et~al.(2021)Fujiya, Furukawa, Sugahara, Koike, Bajo, Chabot,
+  Miura, Moynier, Russell, Tachibana, Takano, Usui and
+  Zolensky}]{fujiya_analytical_2021}
+\bibinfo{author}{Fujiya, W.}, \bibinfo{author}{Furukawa, Y.},
+  \bibinfo{author}{Sugahara, H.}, \bibinfo{author}{Koike, M.},
+  \bibinfo{author}{Bajo, K.i.}, \bibinfo{author}{Chabot, N.L.},
+  \bibinfo{author}{Miura, Y.N.}, \bibinfo{author}{Moynier, F.},
+  \bibinfo{author}{Russell, S.S.}, \bibinfo{author}{Tachibana, S.},
+  \bibinfo{author}{Takano, Y.}, \bibinfo{author}{Usui, T.},
+  \bibinfo{author}{Zolensky, M.E.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Analytical protocols for {Phobos} regolith samples
+  returned by the {Martian} {Moons} {eXploration} ({MMX}) mission}.
+\newblock \bibinfo{journal}{Earth, Planets and Space} \bibinfo{volume}{73},
+  \bibinfo{pages}{120}.
+\newblock \URLprefix \url{https://doi.org/10.1186/s40623-021-01438-9},
+  \DOIprefix\doi{10.1186/s40623-021-01438-9}.
+%Type = Article
+\bibitem[{Gaffey(2010)}]{gaffey_space_2010}
+\bibinfo{author}{Gaffey, M.J.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Space weathering and the interpretation of asteroid
+  reflectance spectra}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{209},
+  \bibinfo{pages}{564--574}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103510001879},
+  \DOIprefix\doi{10.1016/j.icarus.2010.05.006}.
+%Type = Article
+\bibitem[{Hesselbrock and Minton(2017)}]{hesselbrock_ongoing_2017}
+\bibinfo{author}{Hesselbrock, A.J.}, \bibinfo{author}{Minton, D.A.},
+  \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{An ongoing satellite–ring cycle of {Mars} and the
+  origins of {Phobos} and {Deimos}}.
+\newblock \bibinfo{journal}{Nature Geoscience} \bibinfo{volume}{10},
+  \bibinfo{pages}{266--269}.
+\newblock \URLprefix \url{https://www.nature.com/articles/ngeo2916},
+  \DOIprefix\doi{10.1038/ngeo2916}. \bibinfo{note}{number: 4 Publisher: Nature
+  Publishing Group}.
+%Type = Article
+\bibitem[{Hiroi et~al.(2003)Hiroi, Kanno, Nakamura, Abe, Ishiguro, Hasegawa,
+  Miyasaka, Sekiguchi, Terada and Igarashi}]{hiroi_tagish_2003}
+\bibinfo{author}{Hiroi, T.}, \bibinfo{author}{Kanno, A.},
+  \bibinfo{author}{Nakamura, R.}, \bibinfo{author}{Abe, M.},
+  \bibinfo{author}{Ishiguro, M.}, \bibinfo{author}{Hasegawa, S.},
+  \bibinfo{author}{Miyasaka, S.}, \bibinfo{author}{Sekiguchi, T.},
+  \bibinfo{author}{Terada, H.}, \bibinfo{author}{Igarashi, G.},
+  \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{The {Tagish} {Lake} {Meteorite} as a {Possible}
+  {Sample} from a {T} or {D} {Type} {Asteroid}} ,
+  \bibinfo{pages}{1425}\URLprefix
+  \url{https://ui.adsabs.harvard.edu/abs/2003LPI....34.1425H}.
+  \bibinfo{note}{conference Name: Lunar and Planetary Science Conference ADS
+  Bibcode: 2003LPI....34.1425H}.
+%Type = Article
+\bibitem[{Hiroi et~al.(2001)Hiroi, Zolensky and Pieters}]{hiroi_tagish_2001}
+\bibinfo{author}{Hiroi, T.}, \bibinfo{author}{Zolensky, M.E.},
+  \bibinfo{author}{Pieters, C.M.}, \bibinfo{year}{2001}.
+\newblock \bibinfo{title}{The {Tagish} {Lake} {Meteorite}: {A} {Possible}
+  {Sample} from a {D}-{Type} {Asteroid}}.
+\newblock \bibinfo{journal}{Science} \bibinfo{volume}{293},
+  \bibinfo{pages}{2234--2236}.
+\newblock \URLprefix \url{https://www.science.org/doi/10.1126/science.1063734},
+  \DOIprefix\doi{10.1126/science.1063734}. \bibinfo{note}{publisher: American
+  Association for the Advancement of Science}.
+%Type = Article
+\bibitem[{Hunten(1979)}]{hunten_capture_1979}
+\bibinfo{author}{Hunten, D.M.}, \bibinfo{year}{1979}.
+\newblock \bibinfo{title}{Capture of {Phobos} and {Deimos} by photoatmospheric
+  drag}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{37},
+  \bibinfo{pages}{113--123}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/0019103579901192},
+  \DOIprefix\doi{10.1016/0019-1035(79)90119-2}.
+%Type = Article
+\bibitem[{Hyodo et~al.(2018)Hyodo, Genda, Charnoz, Pignatale and
+  Rosenblatt}]{hyodo_impact_2018}
+\bibinfo{author}{Hyodo, R.}, \bibinfo{author}{Genda, H.},
+  \bibinfo{author}{Charnoz, S.}, \bibinfo{author}{Pignatale, F.C.F.},
+  \bibinfo{author}{Rosenblatt, P.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{On the {Impact} {Origin} of {Phobos} and {Deimos}.
+  {IV}. {Volatile} {Depletion}}.
+\newblock \bibinfo{journal}{The Astrophysical Journal} \bibinfo{volume}{860},
+  \bibinfo{pages}{150}.
+\newblock \URLprefix \url{https://dx.doi.org/10.3847/1538-4357/aac024},
+  \DOIprefix\doi{10.3847/1538-4357/aac024}. \bibinfo{note}{publisher: The
+  American Astronomical Society}.
+%Type = Article
+\bibitem[{Hyodo et~al.(2017a)Hyodo, Genda, Charnoz and
+  Rosenblatt}]{hyodo_impact_2017}
+\bibinfo{author}{Hyodo, R.}, \bibinfo{author}{Genda, H.},
+  \bibinfo{author}{Charnoz, S.}, \bibinfo{author}{Rosenblatt, P.},
+  \bibinfo{year}{2017}a.
+\newblock \bibinfo{title}{On the {Impact} {Origin} of {Phobos} and {Deimos}.
+  {I}. {Thermodynamic} and {Physical} {Aspects}}.
+\newblock \bibinfo{journal}{The Astrophysical Journal} \bibinfo{volume}{845},
+  \bibinfo{pages}{125}.
+\newblock \URLprefix \url{https://dx.doi.org/10.3847/1538-4357/aa81c4},
+  \DOIprefix\doi{10.3847/1538-4357/aa81c4}. \bibinfo{note}{publisher: The
+  American Astronomical Society}.
+%Type = Article
+\bibitem[{Hyodo et~al.(2022)Hyodo, Genda, Sekiguchi, Madeira and
+  Charnoz}]{hyodo_challenges_2022}
+\bibinfo{author}{Hyodo, R.}, \bibinfo{author}{Genda, H.},
+  \bibinfo{author}{Sekiguchi, R.}, \bibinfo{author}{Madeira, G.},
+  \bibinfo{author}{Charnoz, S.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Challenges in {Forming} {Phobos} and {Deimos}
+  {Directly} from a {Splitting} of an {Ancestral} {Single} {Moon}}.
+\newblock \bibinfo{journal}{The Planetary Science Journal} \bibinfo{volume}{3},
+  \bibinfo{pages}{204}.
+\newblock \URLprefix
+  \url{https://iopscience.iop.org/article/10.3847/PSJ/ac88d2},
+  \DOIprefix\doi{10.3847/PSJ/ac88d2}.
+%Type = Article
+\bibitem[{Hyodo et~al.(2017b)Hyodo, Rosenblatt, Genda and
+  Charnoz}]{hyodo_impact_2017-1}
+\bibinfo{author}{Hyodo, R.}, \bibinfo{author}{Rosenblatt, P.},
+  \bibinfo{author}{Genda, H.}, \bibinfo{author}{Charnoz, S.},
+  \bibinfo{year}{2017}b.
+\newblock \bibinfo{title}{On the {Impact} {Origin} of {Phobos} and {Deimos}.
+  {II}. {True} {Polar} {Wander} and {Disk} {Evolution}}.
+\newblock \bibinfo{journal}{The Astrophysical Journal} \bibinfo{volume}{851},
+  \bibinfo{pages}{122}.
+\newblock \URLprefix \url{https://dx.doi.org/10.3847/1538-4357/aa9984},
+  \DOIprefix\doi{10.3847/1538-4357/aa9984}. \bibinfo{note}{publisher: The
+  American Astronomical Society}.
+%Type = Article
+\bibitem[{Kameda et~al.(2019)Kameda, Kato, Osada, Ozaki, Enya, Kouyama, Suzuki,
+  Miyamoto and Yamazaki}]{kameda_telescopic_2019}
+\bibinfo{author}{Kameda, S.}, \bibinfo{author}{Kato, H.},
+  \bibinfo{author}{Osada, N.}, \bibinfo{author}{Ozaki, M.},
+  \bibinfo{author}{Enya, K.}, \bibinfo{author}{Kouyama, T.},
+  \bibinfo{author}{Suzuki, H.}, \bibinfo{author}{Miyamoto, H.},
+  \bibinfo{author}{Yamazaki, A.}, \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Telescopic {Camera} ({TENGOO}) and {Wide}-{Angle}
+  {Multiband} {Camera} ({OROCHI}) {Onboard} {Martian} {Moons} {eXploration}
+  ({MMX}) {Spacecraft}} , \bibinfo{pages}{2292}\URLprefix
+  \url{https://ui.adsabs.harvard.edu/abs/2019LPI....50.2292K}.
+  \bibinfo{note}{conference Name: 50th Annual Lunar and Planetary Science
+  Conference ADS Bibcode: 2019LPI....50.2292K}.
+%Type = Article
+\bibitem[{Kameda et~al.(2021)Kameda, Ozaki, Enya, Fuse, Kouyama, Sakatani,
+  Suzuki, Osada, Kato, Miyamoto, Yamazaki, Nakamura, Okamoto, Ishimaru, Hong,
+  Ishibashi, Takashima, Ishigami, Kuo, Abe, Goda, Murao, Fujishima, Aoyama,
+  Hagiwara, Mizumoto, Tanaka, Murakami, Matsumoto, Tanaka and
+  Sakuta}]{kameda_design_2021}
+\bibinfo{author}{Kameda, S.}, \bibinfo{author}{Ozaki, M.},
+  \bibinfo{author}{Enya, K.}, \bibinfo{author}{Fuse, R.},
+  \bibinfo{author}{Kouyama, T.}, \bibinfo{author}{Sakatani, N.},
+  \bibinfo{author}{Suzuki, H.}, \bibinfo{author}{Osada, N.},
+  \bibinfo{author}{Kato, H.}, \bibinfo{author}{Miyamoto, H.},
+  \bibinfo{author}{Yamazaki, A.}, \bibinfo{author}{Nakamura, T.},
+  \bibinfo{author}{Okamoto, T.}, \bibinfo{author}{Ishimaru, T.},
+  \bibinfo{author}{Hong, P.}, \bibinfo{author}{Ishibashi, K.},
+  \bibinfo{author}{Takashima, T.}, \bibinfo{author}{Ishigami, R.},
+  \bibinfo{author}{Kuo, C.L.}, \bibinfo{author}{Abe, S.},
+  \bibinfo{author}{Goda, Y.}, \bibinfo{author}{Murao, H.},
+  \bibinfo{author}{Fujishima, S.}, \bibinfo{author}{Aoyama, T.},
+  \bibinfo{author}{Hagiwara, K.}, \bibinfo{author}{Mizumoto, S.},
+  \bibinfo{author}{Tanaka, N.}, \bibinfo{author}{Murakami, K.},
+  \bibinfo{author}{Matsumoto, M.}, \bibinfo{author}{Tanaka, K.},
+  \bibinfo{author}{Sakuta, H.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Design of telescopic nadir imager for geomorphology
+  ({TENGOO}) and observation of surface reflectance by optical chromatic imager
+  ({OROCHI}) for the {Martian} {Moons} {Exploration} ({MMX})}.
+\newblock \bibinfo{journal}{Earth, Planets and Space} \bibinfo{volume}{73},
+  \bibinfo{pages}{218}.
+\newblock \URLprefix \url{https://doi.org/10.1186/s40623-021-01462-9},
+  \DOIprefix\doi{10.1186/s40623-021-01462-9}.
+%Type = Article
+\bibitem[{Kawakatsu et~al.(2022)Kawakatsu, Kuramoto, Usui, Sugahara, Ootake,
+  Yasumitsu, Yoshikawa, Mary, Grebenstein, Sawada, Imada, Shimada, Ogawa,
+  Otsuki, Baba, Fujita, Zacny, van Dyne, Satoh and
+  Tokaji}]{kawakatsu_preliminary_2022}
+\bibinfo{author}{Kawakatsu, Y.}, \bibinfo{author}{Kuramoto, K.},
+  \bibinfo{author}{Usui, T.}, \bibinfo{author}{Sugahara, H.},
+  \bibinfo{author}{Ootake, H.}, \bibinfo{author}{Yasumitsu, R.},
+  \bibinfo{author}{Yoshikawa, K.}, \bibinfo{author}{Mary, S.},
+  \bibinfo{author}{Grebenstein, M.}, \bibinfo{author}{Sawada, H.},
+  \bibinfo{author}{Imada, T.}, \bibinfo{author}{Shimada, T.},
+  \bibinfo{author}{Ogawa, K.}, \bibinfo{author}{Otsuki, M.},
+  \bibinfo{author}{Baba, M.}, \bibinfo{author}{Fujita, K.},
+  \bibinfo{author}{Zacny, K.}, \bibinfo{author}{van Dyne, D.},
+  \bibinfo{author}{Satoh, Y.}, \bibinfo{author}{Tokaji, A.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Preliminary design of {Martian} {Moons} {eXploration}
+  ({MMX})}.
+\newblock \bibinfo{journal}{Acta Astronautica} \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S009457652200474X},
+  \DOIprefix\doi{10.1016/j.actaastro.2022.09.009}.
+%Type = Article
+\bibitem[{Kobayashi et~al.(2018)Kobayashi, Krüger, Senshu, Wada, Okudaira,
+  Sasaki and Kimura}]{kobayashi_situ_2018}
+\bibinfo{author}{Kobayashi, M.}, \bibinfo{author}{Krüger, H.},
+  \bibinfo{author}{Senshu, H.}, \bibinfo{author}{Wada, K.},
+  \bibinfo{author}{Okudaira, O.}, \bibinfo{author}{Sasaki, S.},
+  \bibinfo{author}{Kimura, H.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{In situ observations of dust particles in {Martian}
+  dust belts using a large-sensitive-area dust sensor}.
+\newblock \bibinfo{journal}{Planetary and Space Science} \bibinfo{volume}{156},
+  \bibinfo{pages}{41--46}.
+\newblock \URLprefix
+  \url{https://ui.adsabs.harvard.edu/abs/2018P&SS..156...41K/abstract},
+  \DOIprefix\doi{10.1016/j.pss.2017.12.011}.
+%Type = Article
+\bibitem[{Kuramoto et~al.(2022)Kuramoto, Kawakatsu, Fujimoto, Araya, Barucci,
+  Genda, Hirata, Ikeda, Imamura, Helbert, Kameda, Kobayashi, Kusano, Lawrence,
+  Matsumoto, Michel, Miyamoto, Morota, Nakagawa, Nakamura, Ogawa, Otake, Ozaki,
+  Russell, Sasaki, Sawada, Senshu, Tachibana, Terada, Ulamec, Usui, Wada,
+  Watanabe and Yokota}]{kuramoto_martian_2022}
+\bibinfo{author}{Kuramoto, K.}, \bibinfo{author}{Kawakatsu, Y.},
+  \bibinfo{author}{Fujimoto, M.}, \bibinfo{author}{Araya, A.},
+  \bibinfo{author}{Barucci, M.A.}, \bibinfo{author}{Genda, H.},
+  \bibinfo{author}{Hirata, N.}, \bibinfo{author}{Ikeda, H.},
+  \bibinfo{author}{Imamura, T.}, \bibinfo{author}{Helbert, J.},
+  \bibinfo{author}{Kameda, S.}, \bibinfo{author}{Kobayashi, M.},
+  \bibinfo{author}{Kusano, H.}, \bibinfo{author}{Lawrence, D.J.},
+  \bibinfo{author}{Matsumoto, K.}, \bibinfo{author}{Michel, P.},
+  \bibinfo{author}{Miyamoto, H.}, \bibinfo{author}{Morota, T.},
+  \bibinfo{author}{Nakagawa, H.}, \bibinfo{author}{Nakamura, T.},
+  \bibinfo{author}{Ogawa, K.}, \bibinfo{author}{Otake, H.},
+  \bibinfo{author}{Ozaki, M.}, \bibinfo{author}{Russell, S.},
+  \bibinfo{author}{Sasaki, S.}, \bibinfo{author}{Sawada, H.},
+  \bibinfo{author}{Senshu, H.}, \bibinfo{author}{Tachibana, S.},
+  \bibinfo{author}{Terada, N.}, \bibinfo{author}{Ulamec, S.},
+  \bibinfo{author}{Usui, T.}, \bibinfo{author}{Wada, K.},
+  \bibinfo{author}{Watanabe, S.i.}, \bibinfo{author}{Yokota, S.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{Martian moons exploration {MMX}: sample return
+  mission to {Phobos} elucidating formation processes of habitable planets}.
+\newblock \bibinfo{journal}{Earth, Planets and Space} \bibinfo{volume}{74},
+  \bibinfo{pages}{12}.
+\newblock \URLprefix \url{https://doi.org/10.1186/s40623-021-01545-7},
+  \DOIprefix\doi{10.1186/s40623-021-01545-7}.
+%Type = Article
+\bibitem[{Landis()}]{landis_origin_nodate}
+\bibinfo{author}{Landis, G.A.}, .
+\newblock \bibinfo{title}{Origin of {Martian} {Moons} from {Binary} {Asteroid}
+  {Dissociation}} , \bibinfo{pages}{9}.
+%Type = Article
+\bibitem[{Lawrence et~al.(2019)Lawrence, Peplowski, Beck, Burks, Chabot, Cully,
+  Elphic, Ernst, Fix, Goldsten, Hoffer, Kusano, Murchie, Schratz, Usui and
+  Yokley}]{lawrence_measuring_2019}
+\bibinfo{author}{Lawrence, D.J.}, \bibinfo{author}{Peplowski, P.N.},
+  \bibinfo{author}{Beck, A.W.}, \bibinfo{author}{Burks, M.T.},
+  \bibinfo{author}{Chabot, N.L.}, \bibinfo{author}{Cully, M.J.},
+  \bibinfo{author}{Elphic, R.C.}, \bibinfo{author}{Ernst, C.M.},
+  \bibinfo{author}{Fix, S.}, \bibinfo{author}{Goldsten, J.O.},
+  \bibinfo{author}{Hoffer, E.M.}, \bibinfo{author}{Kusano, H.},
+  \bibinfo{author}{Murchie, S.L.}, \bibinfo{author}{Schratz, B.C.},
+  \bibinfo{author}{Usui, T.}, \bibinfo{author}{Yokley, Z.W.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{Measuring the {Elemental} {Composition} of {Phobos}:
+  {The} {Mars}-moon {Exploration} with {GAmma} rays and {NEutrons} ({MEGANE})
+  {Investigation} for the {Martian} {Moons} {eXploration} ({MMX}) {Mission}}.
+\newblock \bibinfo{journal}{Earth and Space Science} \bibinfo{volume}{6},
+  \bibinfo{pages}{e2019EA000811}.
+\newblock \URLprefix
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1029/2019EA000811},
+  \DOIprefix\doi{10.1029/2019EA000811}. \bibinfo{note}{\_eprint:
+  https://onlinelibrary.wiley.com/doi/pdf/10.1029/2019EA000811}.
+%Type = Article
+\bibitem[{Matsumoto et~al.(2021)Matsumoto, Hirata, Ikeda, Kouyama, Senshu,
+  Yamamoto, Noda, Miyamoto, Araya, Araki, Kamata, Baresi and
+  Namiki}]{matsumoto_mmx_2021}
+\bibinfo{author}{Matsumoto, K.}, \bibinfo{author}{Hirata, N.},
+  \bibinfo{author}{Ikeda, H.}, \bibinfo{author}{Kouyama, T.},
+  \bibinfo{author}{Senshu, H.}, \bibinfo{author}{Yamamoto, K.},
+  \bibinfo{author}{Noda, H.}, \bibinfo{author}{Miyamoto, H.},
+  \bibinfo{author}{Araya, A.}, \bibinfo{author}{Araki, H.},
+  \bibinfo{author}{Kamata, S.}, \bibinfo{author}{Baresi, N.},
+  \bibinfo{author}{Namiki, N.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{{MMX} geodesy investigations: science requirements
+  and observation strategy}.
+\newblock \bibinfo{journal}{Earth, Planets and Space} \bibinfo{volume}{73},
+  \bibinfo{pages}{226}.
+\newblock \URLprefix \url{https://doi.org/10.1186/s40623-021-01500-6},
+  \DOIprefix\doi{10.1186/s40623-021-01500-6}.
+%Type = Book
+\bibitem[{Michel et~al.(2015)Michel, DeMeo and Bottke}]{michel_asteroids_2015}
+\bibinfo{author}{Michel, P.}, \bibinfo{author}{DeMeo, F.E.},
+  \bibinfo{author}{Bottke, W.F.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Asteroids {IV}}.
+\newblock \bibinfo{publisher}{University of Arizona Press}.
+\newblock \bibinfo{note}{Google-Books-ID: o3r6CgAAQBAJ}.
+%Type = Article
+\bibitem[{Miyamoto et~al.(2021)Miyamoto, Niihara, Wada, Ogawa, Senshu, Michel,
+  Kikuchi, Hemmi, Nakamura, Nakamura, Hirata, Sasaki, Asphaug, Britt, Abell,
+  Ballouz, Banouin, Baresi, Barucci, Biele, Grott, Hino, Hong, Imada, Kameda,
+  Kobayashi, Libourel, Mogi, Murdoch, Nishio, Okamoto, Ota, Otsuki, Otto,
+  Sakatani, Shimizu, Takemura, Terada, Tsukamoto, Usui and
+  Willner}]{miyamoto_surface_2021}
+\bibinfo{author}{Miyamoto, H.}, \bibinfo{author}{Niihara, T.},
+  \bibinfo{author}{Wada, K.}, \bibinfo{author}{Ogawa, K.},
+  \bibinfo{author}{Senshu, H.}, \bibinfo{author}{Michel, P.},
+  \bibinfo{author}{Kikuchi, H.}, \bibinfo{author}{Hemmi, R.},
+  \bibinfo{author}{Nakamura, T.}, \bibinfo{author}{Nakamura, A.M.},
+  \bibinfo{author}{Hirata, N.}, \bibinfo{author}{Sasaki, S.},
+  \bibinfo{author}{Asphaug, E.}, \bibinfo{author}{Britt, D.T.},
+  \bibinfo{author}{Abell, P.A.}, \bibinfo{author}{Ballouz, R.L.},
+  \bibinfo{author}{Banouin, O.S.}, \bibinfo{author}{Baresi, N.},
+  \bibinfo{author}{Barucci, M.A.}, \bibinfo{author}{Biele, J.},
+  \bibinfo{author}{Grott, M.}, \bibinfo{author}{Hino, H.},
+  \bibinfo{author}{Hong, P.K.}, \bibinfo{author}{Imada, T.},
+  \bibinfo{author}{Kameda, S.}, \bibinfo{author}{Kobayashi, M.},
+  \bibinfo{author}{Libourel, G.}, \bibinfo{author}{Mogi, K.},
+  \bibinfo{author}{Murdoch, N.}, \bibinfo{author}{Nishio, Y.},
+  \bibinfo{author}{Okamoto, S.}, \bibinfo{author}{Ota, Y.},
+  \bibinfo{author}{Otsuki, M.}, \bibinfo{author}{Otto, K.A.},
+  \bibinfo{author}{Sakatani, N.}, \bibinfo{author}{Shimizu, Y.},
+  \bibinfo{author}{Takemura, T.}, \bibinfo{author}{Terada, N.},
+  \bibinfo{author}{Tsukamoto, M.}, \bibinfo{author}{Usui, T.},
+  \bibinfo{author}{Willner, K.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{Surface environment of {Phobos} and {Phobos} simulant
+  {UTPS}}.
+\newblock \bibinfo{journal}{Earth, Planets and Space} \bibinfo{volume}{73},
+  \bibinfo{pages}{214}.
+\newblock \URLprefix \url{https://doi.org/10.1186/s40623-021-01406-3},
+  \DOIprefix\doi{10.1186/s40623-021-01406-3}.
+%Type = Article
+\bibitem[{Murchie(1999)}]{murchie_mars_1999}
+\bibinfo{author}{Murchie, S.}, \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{Mars pathfinder spectral measurements of {Phobos} and
+  {Deimos}: {Comparison} with previous data}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+  \bibinfo{volume}{104}, \bibinfo{pages}{9069--9080}.
+\newblock \URLprefix
+  \url{https://ui.adsabs.harvard.edu/abs/1999JGR...104.9069M},
+  \DOIprefix\doi{10.1029/98JE02248}. \bibinfo{note}{aDS Bibcode:
+  1999JGR...104.9069M}.
+%Type = Article
+\bibitem[{Murchie et~al.(2014)Murchie, Britt and Pieters}]{murchie_value_2014}
+\bibinfo{author}{Murchie, S.L.}, \bibinfo{author}{Britt, D.T.},
+  \bibinfo{author}{Pieters, C.M.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{The value of {Phobos} sample return}.
+\newblock \bibinfo{journal}{Planetary and Space Science} \bibinfo{volume}{102},
+  \bibinfo{pages}{176--182}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0032063314001123},
+  \DOIprefix\doi{10.1016/j.pss.2014.04.014}.
+%Type = Incollection
+\bibitem[{Murchie et~al.(2015)Murchie, Thomas, Rivkin and
+  Chabot}]{murchie_phobos_2015}
+\bibinfo{author}{Murchie, S.L.}, \bibinfo{author}{Thomas, P.C.},
+  \bibinfo{author}{Rivkin, A.S.}, \bibinfo{author}{Chabot, N.L.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Phobos and {Deimos}}, in:
+  \bibinfo{booktitle}{Asteroids {IV}}, pp. \bibinfo{pages}{451--467}.
+\newblock \DOIprefix\doi{10.2458/azu_uapress_9780816532131-ch024}.
+%Type = Article
+\bibitem[{Nayak et~al.(2016)Nayak, Nimmo and Udrea}]{nayak_effects_2016}
+\bibinfo{author}{Nayak, M.}, \bibinfo{author}{Nimmo, F.},
+  \bibinfo{author}{Udrea, B.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Effects of mass transfer between {Martian} satellites
+  on surface geology}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{267},
+  \bibinfo{pages}{220--231}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103515005837},
+  \DOIprefix\doi{10.1016/j.icarus.2015.12.026}.
+%Type = Article
+\bibitem[{Ogohara et~al.(2022)Ogohara, Nakagawa, Aoki, Kouyama, Usui, Terada,
+  Imamura, Montmessin, Brain, Doressoundiram, Gautier, Hara, Harada, Ikeda,
+  Koike, Leblanc, Ramirez, Sawyer, Seki, Spiga, Vandaele, Yokota, Barucci and
+  Kameda}]{ogohara_mars_2022}
+\bibinfo{author}{Ogohara, K.}, \bibinfo{author}{Nakagawa, H.},
+  \bibinfo{author}{Aoki, S.}, \bibinfo{author}{Kouyama, T.},
+  \bibinfo{author}{Usui, T.}, \bibinfo{author}{Terada, N.},
+  \bibinfo{author}{Imamura, T.}, \bibinfo{author}{Montmessin, F.},
+  \bibinfo{author}{Brain, D.}, \bibinfo{author}{Doressoundiram, A.},
+  \bibinfo{author}{Gautier, T.}, \bibinfo{author}{Hara, T.},
+  \bibinfo{author}{Harada, Y.}, \bibinfo{author}{Ikeda, H.},
+  \bibinfo{author}{Koike, M.}, \bibinfo{author}{Leblanc, F.},
+  \bibinfo{author}{Ramirez, R.}, \bibinfo{author}{Sawyer, E.},
+  \bibinfo{author}{Seki, K.}, \bibinfo{author}{Spiga, A.},
+  \bibinfo{author}{Vandaele, A.C.}, \bibinfo{author}{Yokota, S.},
+  \bibinfo{author}{Barucci, A.}, \bibinfo{author}{Kameda, S.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{The {Mars} system revealed by the {Martian} {Moons}
+  {eXploration} mission}.
+\newblock \bibinfo{journal}{Earth, Planets and Space} \bibinfo{volume}{74},
+  \bibinfo{pages}{1}.
+\newblock \URLprefix \url{https://doi.org/10.1186/s40623-021-01417-0},
+  \DOIprefix\doi{10.1186/s40623-021-01417-0}.
+%Type = Article
+\bibitem[{Pajola et~al.(2012)Pajola, Lazzarin, Bertini, Marzari, Turrini,
+  Magrin, La~Forgia, Thomas, Küppers, Moissl, Ferri, Barbieri, Rickman, Sierks
+  and {the OSIRIS Team}}]{pajola_spectrophotometric_2012}
+\bibinfo{author}{Pajola, M.}, \bibinfo{author}{Lazzarin, M.},
+  \bibinfo{author}{Bertini, I.}, \bibinfo{author}{Marzari, F.},
+  \bibinfo{author}{Turrini, D.}, \bibinfo{author}{Magrin, S.},
+  \bibinfo{author}{La~Forgia, F.}, \bibinfo{author}{Thomas, N.},
+  \bibinfo{author}{Küppers, M.}, \bibinfo{author}{Moissl, R.},
+  \bibinfo{author}{Ferri, F.}, \bibinfo{author}{Barbieri, C.},
+  \bibinfo{author}{Rickman, H.}, \bibinfo{author}{Sierks, H.},
+  \bibinfo{author}{{the OSIRIS Team}}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{Spectrophotometric investigation of {Phobos} with the
+  {Rosetta} {OSIRIS}-{NAC} camera and implications for its collisional
+  capture}.
+\newblock \bibinfo{journal}{Monthly Notices of the Royal Astronomical Society}
+  \bibinfo{volume}{427}, \bibinfo{pages}{3230--3243}.
+\newblock \URLprefix \url{https://doi.org/10.1111/j.1365-2966.2012.22026.x},
+  \DOIprefix\doi{10.1111/j.1365-2966.2012.22026.x}.
+%Type = Article
+\bibitem[{Pajola et~al.(2013)Pajola, Lazzarin, Ore, Cruikshank, Roush, Magrin,
+  Bertini, Forgia and Barbieri}]{pajola_phobos_2013}
+\bibinfo{author}{Pajola, M.}, \bibinfo{author}{Lazzarin, M.},
+  \bibinfo{author}{Ore, C.M.D.}, \bibinfo{author}{Cruikshank, D.P.},
+  \bibinfo{author}{Roush, T.L.}, \bibinfo{author}{Magrin, S.},
+  \bibinfo{author}{Bertini, I.}, \bibinfo{author}{Forgia, F.L.},
+  \bibinfo{author}{Barbieri, C.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{PHOBOS} {AS} {A} {D}-{TYPE} {CAPTURED} {ASTEROID},
+  {SPECTRAL} {MODELING} {FROM} 0.25 {TO} 4.0 um}.
+\newblock \bibinfo{journal}{The Astrophysical Journal} \bibinfo{volume}{777},
+  \bibinfo{pages}{127}.
+\newblock \URLprefix \url{https://dx.doi.org/10.1088/0004-637X/777/2/127},
+  \DOIprefix\doi{10.1088/0004-637X/777/2/127}. \bibinfo{note}{publisher: The
+  American Astronomical Society}.
+%Type = Article
+\bibitem[{Pieters et~al.(2014)Pieters, Murchie, Thomas and
+  Britt}]{pieters_composition_2014}
+\bibinfo{author}{Pieters, C.M.}, \bibinfo{author}{Murchie, S.},
+  \bibinfo{author}{Thomas, N.}, \bibinfo{author}{Britt, D.},
+  \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Composition of {Surface} {Materials} on the {Moons}
+  of {Mars}}.
+\newblock \bibinfo{journal}{Planetary and Space Science} \bibinfo{volume}{102},
+  \bibinfo{pages}{144--151}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0032063314000439},
+  \DOIprefix\doi{10.1016/j.pss.2014.02.008}.
+%Type = Article
+\bibitem[{Ramsley and Head(2021)}]{ramsley_origins_2021}
+\bibinfo{author}{Ramsley, K.R.}, \bibinfo{author}{Head, J.W.},
+  \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{The {Origins} and {Geological} {Histories} of
+  {Deimos} and {Phobos}: {Hypotheses} and {Open} {Questions}}.
+\newblock \bibinfo{journal}{Space Science Reviews} \bibinfo{volume}{217},
+  \bibinfo{pages}{86}.
+\newblock \URLprefix \url{https://doi.org/10.1007/s11214-021-00864-1},
+  \DOIprefix\doi{10.1007/s11214-021-00864-1}.
+%Type = Article
+\bibitem[{Rivkin et~al.(2002)Rivkin, Brown, Trilling, Bell and
+  Plassmann}]{rivkin_near-infrared_2002}
+\bibinfo{author}{Rivkin, A.S.}, \bibinfo{author}{Brown, R.H.},
+  \bibinfo{author}{Trilling, D.E.}, \bibinfo{author}{Bell, J.F.},
+  \bibinfo{author}{Plassmann, J.H.}, \bibinfo{year}{2002}.
+\newblock \bibinfo{title}{Near-{Infrared} {Spectrophotometry} of {Phobos} and
+  {Deimos}}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{156},
+  \bibinfo{pages}{64--75}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103501967673},
+  \DOIprefix\doi{10.1006/icar.2001.6767}.
+%Type = Article
+\bibitem[{Rosenblatt(2011)}]{rosenblatt_origin_2011}
+\bibinfo{author}{Rosenblatt, P.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{The origin of the {Martian} moons revisited}.
+\newblock \bibinfo{journal}{The Astronomy and Astrophysics Review}
+  \bibinfo{volume}{19}, \bibinfo{pages}{44}.
+\newblock \URLprefix \url{https://doi.org/10.1007/s00159-011-0044-6},
+  \DOIprefix\doi{10.1007/s00159-011-0044-6}.
+%Type = Article
+\bibitem[{Rosenblatt and Charnoz(2012)}]{rosenblatt_formation_2012}
+\bibinfo{author}{Rosenblatt, P.}, \bibinfo{author}{Charnoz, S.},
+  \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{On the formation of the martian moons from a
+  circum-martian accretion disk}.
+\newblock \bibinfo{journal}{Icarus} \bibinfo{volume}{221},
+  \bibinfo{pages}{806--815}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S0019103512003703},
+  \DOIprefix\doi{10.1016/j.icarus.2012.09.009}.
+%Type = Article
+\bibitem[{Rosenblatt et~al.(2016)Rosenblatt, Charnoz, Dunseath, Terao-Dunseath,
+  Trinh, Hyodo, Genda and Toupin}]{rosenblatt_accretion_2016}
+\bibinfo{author}{Rosenblatt, P.}, \bibinfo{author}{Charnoz, S.},
+  \bibinfo{author}{Dunseath, K.M.}, \bibinfo{author}{Terao-Dunseath, M.},
+  \bibinfo{author}{Trinh, A.}, \bibinfo{author}{Hyodo, R.},
+  \bibinfo{author}{Genda, H.}, \bibinfo{author}{Toupin, S.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Accretion of {Phobos} and {Deimos} in an extended
+  debris disc stirred by transient moons}.
+\newblock \bibinfo{journal}{Nature Geoscience} \bibinfo{volume}{9},
+  \bibinfo{pages}{581--583}.
+\newblock \URLprefix \url{https://www.nature.com/articles/ngeo2742},
+  \DOIprefix\doi{10.1038/ngeo2742}. \bibinfo{note}{number: 8 Publisher: Nature
+  Publishing Group}.
+%Type = Article
+\bibitem[{Soter(1971)}]{soter_dust_1971}
+\bibinfo{author}{Soter, S.}, \bibinfo{year}{1971}.
+\newblock \bibinfo{title}{The {Dust} {Belts} of {Mars}} \URLprefix
+  \url{https://ecommons.cornell.edu/handle/1813/36286}.
+  \bibinfo{note}{accepted: 2014-04-21T14:24:27Z}.
+%Type = Article
+\bibitem[{Sunday et~al.(2022)Sunday, Murdoch, Wilhelm, Drilleau, Zhang,
+  Tardivel and Michel}]{sunday_influence_2022}
+\bibinfo{author}{Sunday, C.}, \bibinfo{author}{Murdoch, N.},
+  \bibinfo{author}{Wilhelm, A.}, \bibinfo{author}{Drilleau, M.},
+  \bibinfo{author}{Zhang, Y.}, \bibinfo{author}{Tardivel, S.},
+  \bibinfo{author}{Michel, P.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{The influence of gravity on granular impacts - {II}.
+  {A} gravity-scaled collision model for slow interactions}.
+\newblock \bibinfo{journal}{Astronomy \& Astrophysics} \bibinfo{volume}{658},
+  \bibinfo{pages}{A118}.
+\newblock \URLprefix
+  \url{https://www.aanda.org/articles/aa/abs/2022/02/aa42098-21/aa42098-21.html},
+  \DOIprefix\doi{10.1051/0004-6361/202142098}. \bibinfo{note}{publisher: EDP
+  Sciences}.
+%Type = Inproceedings
+\bibitem[{Ulamec et~al.(2019)Ulamec, Michel, Grott, Böttger, Hübers, Murdoch,
+  Vernazza, Özgür, Knollenberg, Willner, Grebenstein, Mary, Chazalnoel,
+  Biele, Krause, Ho, Lange, Grundmann, Sasaki, Maibaum, Küchemann, Reill,
+  Chalon, Barthelmes, Lichtenheldt, Krenn, Smisek, Bertrand, Moussi, Delmas,
+  Tardivel, Arrat, IJpelaan, Melac, Lorda, Remetean, Lange, Mierheim,
+  Reershemius, Usui, Matsuoko, Nakamura, Wada, Miyamoto, Kuramoto, LeMaitre,
+  Mas, Delpech, Celine, Rafflegeau, Boirad, Schmisser, Virmontois,
+  Cenac-Morthe, Besson and Rull}]{ulamec_rover_2019}
+\bibinfo{author}{Ulamec, S.}, \bibinfo{author}{Michel, P.},
+  \bibinfo{author}{Grott, M.}, \bibinfo{author}{Böttger, U.},
+  \bibinfo{author}{Hübers, H.W.}, \bibinfo{author}{Murdoch, N.},
+  \bibinfo{author}{Vernazza, P.}, \bibinfo{author}{Özgür, K.},
+  \bibinfo{author}{Knollenberg, J.}, \bibinfo{author}{Willner, K.},
+  \bibinfo{author}{Grebenstein, M.}, \bibinfo{author}{Mary, S.},
+  \bibinfo{author}{Chazalnoel, P.}, \bibinfo{author}{Biele, J.},
+  \bibinfo{author}{Krause, C.}, \bibinfo{author}{Ho, T.M.},
+  \bibinfo{author}{Lange, C.}, \bibinfo{author}{Grundmann, J.T.},
+  \bibinfo{author}{Sasaki, K.}, \bibinfo{author}{Maibaum, M.},
+  \bibinfo{author}{Küchemann, O.}, \bibinfo{author}{Reill, J.},
+  \bibinfo{author}{Chalon, M.}, \bibinfo{author}{Barthelmes, S.},
+  \bibinfo{author}{Lichtenheldt, R.}, \bibinfo{author}{Krenn, R.},
+  \bibinfo{author}{Smisek, M.}, \bibinfo{author}{Bertrand, J.},
+  \bibinfo{author}{Moussi, A.}, \bibinfo{author}{Delmas, C.},
+  \bibinfo{author}{Tardivel, S.}, \bibinfo{author}{Arrat, D.},
+  \bibinfo{author}{IJpelaan, F.}, \bibinfo{author}{Melac, L.},
+  \bibinfo{author}{Lorda, L.}, \bibinfo{author}{Remetean, E.},
+  \bibinfo{author}{Lange, M.}, \bibinfo{author}{Mierheim, O.},
+  \bibinfo{author}{Reershemius, S.}, \bibinfo{author}{Usui, T.},
+  \bibinfo{author}{Matsuoko, M.}, \bibinfo{author}{Nakamura, T.},
+  \bibinfo{author}{Wada, K.}, \bibinfo{author}{Miyamoto, H.},
+  \bibinfo{author}{Kuramoto, K.}, \bibinfo{author}{LeMaitre, J.},
+  \bibinfo{author}{Mas, G.}, \bibinfo{author}{Delpech, M.},
+  \bibinfo{author}{Celine, L.}, \bibinfo{author}{Rafflegeau, A.},
+  \bibinfo{author}{Boirad, H.}, \bibinfo{author}{Schmisser, R.},
+  \bibinfo{author}{Virmontois, C.}, \bibinfo{author}{Cenac-Morthe, C.},
+  \bibinfo{author}{Besson, A.}, \bibinfo{author}{Rull, F.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{A rover for the {JAXA} {MMX} {Mission} to {Phobos}},
+  in: \bibinfo{booktitle}{70th {International} {Astronautical} {Congress},
+  {IAC} 2019}, \bibinfo{publisher}{International Astronautical Federation},
+  \bibinfo{address}{Washington D. C. USA}. pp. \bibinfo{pages}{IAC--19}.
+\newblock \URLprefix \url{https://elib.dlr.de/130664/}.
+%Type = Article
+\bibitem[{Usui et~al.(2020)Usui, Bajo, Fujiya, Furukawa, Koike, Miura,
+  Sugahara, Tachibana, Takano and Kuramoto}]{usui_importance_2020}
+\bibinfo{author}{Usui, T.}, \bibinfo{author}{Bajo, K.i.},
+  \bibinfo{author}{Fujiya, W.}, \bibinfo{author}{Furukawa, Y.},
+  \bibinfo{author}{Koike, M.}, \bibinfo{author}{Miura, Y.N.},
+  \bibinfo{author}{Sugahara, H.}, \bibinfo{author}{Tachibana, S.},
+  \bibinfo{author}{Takano, Y.}, \bibinfo{author}{Kuramoto, K.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{The {Importance} of {Phobos} {Sample} {Return} for
+  {Understanding} the {Mars}-{Moon} {System}}.
+\newblock \bibinfo{journal}{Space Science Reviews} \bibinfo{volume}{216},
+  \bibinfo{pages}{49}.
+\newblock \URLprefix \url{https://doi.org/10.1007/s11214-020-00668-9},
+  \DOIprefix\doi{10.1007/s11214-020-00668-9}.
+%Type = Inproceedings
+\bibitem[{Vayugundla et~al.(2021)Vayugundla, Bodenmüller, Schuster, Müller,
+  Meyer, Kenny, Schuler, Bihler, Stürzl, Steinmetz, Langwald, Lund, Giubilato,
+  Wedler, Triebel, Smíšek and Grebenstein}]{vayugundla_mmx_2021}
+\bibinfo{author}{Vayugundla, M.}, \bibinfo{author}{Bodenmüller, T.},
+  \bibinfo{author}{Schuster, M.J.}, \bibinfo{author}{Müller, M.G.},
+  \bibinfo{author}{Meyer, L.}, \bibinfo{author}{Kenny, P.},
+  \bibinfo{author}{Schuler, F.}, \bibinfo{author}{Bihler, M.},
+  \bibinfo{author}{Stürzl, W.}, \bibinfo{author}{Steinmetz, B.M.},
+  \bibinfo{author}{Langwald, J.}, \bibinfo{author}{Lund, A.},
+  \bibinfo{author}{Giubilato, R.}, \bibinfo{author}{Wedler, A.},
+  \bibinfo{author}{Triebel, R.}, \bibinfo{author}{Smíšek, M.},
+  \bibinfo{author}{Grebenstein, M.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{The {MMX} {Rover} on {Phobos}: {The} {Preliminary}
+  {Design} of the {DLR} {Autonomous} {Navigation} {Experiment}}, in:
+  \bibinfo{booktitle}{2021 {IEEE} {Aerospace} {Conference} (50100)}, pp.
+  \bibinfo{pages}{1--18}.
+\newblock \DOIprefix\doi{10.1109/AERO50100.2021.9438496}. \bibinfo{note}{iSSN:
+  1095-323X}.
+%Type = Article
+\bibitem[{Yokota et~al.(2021)Yokota, Terada, Matsuoka, Murata, Saito, Delcourt,
+  Futaana, Seki, Schaible, Asamura, Kasahara, Nakagawa, Nishino, Nomura, Keika,
+  Harada and Imajo}]{yokota_situ_2021}
+\bibinfo{author}{Yokota, S.}, \bibinfo{author}{Terada, N.},
+  \bibinfo{author}{Matsuoka, A.}, \bibinfo{author}{Murata, N.},
+  \bibinfo{author}{Saito, Y.}, \bibinfo{author}{Delcourt, D.},
+  \bibinfo{author}{Futaana, Y.}, \bibinfo{author}{Seki, K.},
+  \bibinfo{author}{Schaible, M.J.}, \bibinfo{author}{Asamura, K.},
+  \bibinfo{author}{Kasahara, S.}, \bibinfo{author}{Nakagawa, H.},
+  \bibinfo{author}{Nishino, M.N.}, \bibinfo{author}{Nomura, R.},
+  \bibinfo{author}{Keika, K.}, \bibinfo{author}{Harada, Y.},
+  \bibinfo{author}{Imajo, S.}, \bibinfo{year}{2021}.
+\newblock \bibinfo{title}{In situ observations of ions and magnetic field
+  around {Phobos}: the mass spectrum analyzer ({MSA}) for the {Martian} {Moons}
+  {eXploration} ({MMX}) mission}.
+\newblock \bibinfo{journal}{Earth, Planets and Space} \bibinfo{volume}{73},
+  \bibinfo{pages}{216}.
+\newblock \URLprefix \url{https://doi.org/10.1186/s40623-021-01452-x},
+  \DOIprefix\doi{10.1186/s40623-021-01452-x}.
+
+\end{thebibliography}
