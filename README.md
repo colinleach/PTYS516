@@ -1,2 +1,2 @@
 # PTYS516
-Contributions to the solar system small bodies course at LPL, University of Arizona
+Contributions to the solar system small bodies course at LPL, University of Arizona, Fall 2022.
